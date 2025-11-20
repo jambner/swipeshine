@@ -1,1 +1,1 @@
-# detailing-app
+# SwipeShine
